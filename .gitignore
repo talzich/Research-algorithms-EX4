@@ -1,0 +1,7 @@
+# macOS
+**/.DS_Store
+
+# Pycharm
+**/.idea
+__pycache__/
+venv
