@@ -5,7 +5,7 @@ I used those sources:
 https://stackoverflow.com/questions/8866652/determine-if-2-lists-have-the-same-elements-regardless-of-order
 """
 
-from bounded_set_iter import bounded_subsets
+from Q1 import bounded_subsets
 import unittest
 
 
